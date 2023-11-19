@@ -38,7 +38,7 @@ Welcome to the Book Website Project! This project is a simple and elegant soluti
 
 ## Feedback
 
-If you have any feedback, please reach out to us at sandeep.maddheshiyacs20@gmail.com
+If you have any feedback, please reach out to us at sandeep.maddheshiyacs20@smslucknow.ac.in
 
 
 # Hi, I'm Sandeep Maddheshiya! 👋
