@@ -14,7 +14,7 @@ Welcome to the Book Website Project! This project is a simple and elegant soluti
 
 ## Screenshots
 
-![App Screenshot](![1](https://github.com/sandeepmaddheshiya/Book-Website-HTML-CSS-BOOTSTRAP/assets/113048079/7d47bc4e-4bb8-4a5e-80b5-061c5ae9193a))
+![App Screenshot]((https://github.com/sandeepmaddheshiya/Book-Website-HTML-CSS-BOOTSTRAP/assets/113048079/7d47bc4e-4bb8-4a5e-80b5-061c5ae9193a))
 
 
 
